@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @chanbatchu
-- 👀 I’m interested in machine learning 
 - 🌱 I’m currently a student at FourthBrain and working as Data Scientist @ Avant
-- 💞️ I’m looking to collaborate on AutoML projects
+- 💞️ I’m looking to collaborate on Fintech ML projects
 - 📫 How to reach me https://www.linkedin.com/in/chandra-batchu/
 
 <!---
